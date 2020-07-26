@@ -1,0 +1,221 @@
+@charset "utf-8";
+h1 {
+    font-family: aclonica;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    font-size: xx-large;
+}
+h2 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: #130353;
+    color: white;
+    width: 80%;
+    margin-left: 10%;
+    clear: both;
+}
+
+body header {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    background-size: 150%
+% auto;
+    color: black;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    background-position: 30%
+% 50%;
+
+
+
+
+
+
+
+
+
+
+    background-size: 150%
+% auto;
+    text-align: center;
+    background-position: 0% 0%;
+    background-size: cover;
+    background-repeat: repeat-x;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+body footer {
+    background-color: #130353;
+    color: white;
+    font-size: small;
+    font-weight: 600;
+    /* [disabled]margin-top: 10%; */
+    /* [disabled]margin-right: 10%; */
+    margin-left: 10%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-size: cover;
+    background-repeat: repeat;
+    width: 50%;
+    clear: both;
+    float: none;
+}
+.homeleft {
+    width: 50%;
+    margin-left: 10%;
+    float: left;
+    clear: none;
+    background-size: contain;
+}
+.contribution {
+    width: 80%;
+    margin-left: 10%;
+}
+.homeright {
+    margin-right: 10%;
+    float: right;
+    clear: none;
+    margin-left: 5%;
+    width: 25%;
+    height: 25%;
+}
+h3 {
+    margin-left: 10%;
+    text-decoration: underline;
+}
+ol {
+    width: 80%;
+    margin-left: 10%;
+}
+.vid {
+    width: 40%;
+    margin-left: 30%;
+}
+.middle {
+    width: 80%;
+    margin-left: 10%;
+}
+.inter_img {
+    margin-left: 30%;
+    width: 40%;
+    margin-right: 30%;
+    height: 40%;
+}
+.title {
+    font-size: larger;
+}
+.guide {
+    font-size: small;
+}
+.picmiddle {
+    width: 60%;
+    height: 60%;
+    margin-left: 20%;
+}
+.subtitle {
+    width: 40%;
+    font-size: small;
+    text-align: center;
+    margin-left: 30%;
+}
